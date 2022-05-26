@@ -1,5 +1,5 @@
 # About
-This is a simple python script that allows to generate a txt file of directory hierarchy.
+This is a simple python script that allows to generate a .txt that contains the file structure of you project files and folders. This as and option to incorporate icons, such as folder and file icons.
 - Here is an example without icons:
 ```txt
     |--folder1
